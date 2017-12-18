@@ -1,0 +1,2 @@
+class YanosController < ApplicationController
+end
